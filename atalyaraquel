@@ -1,0 +1,25 @@
+# resumo
+
+## info
+
+** Nome**: Atalya Raquel
+
+**livro**: Progressive Web App
+
+## Objetivo 
+- resumir o 1º cap. do livro.
+
+## Meu resumo:
+
+mark down (.md)
+
+PWA, consistem em modos de atendimentos de pessoas em maior escala, não estando ligadas a versões de linguagem, visando a experiência do isiário diante das apliações, visando a disponibilidade so sistema ao usuário.
+Uma aplicação PWA tem como um deve está disponivel para todos, seguindos seus fundamentos, independente de navegador, condições de acesso a internet ou dispositivo.
+Requisitos fundamentais de uma PWA são:
+
+1- Service worker: especificação da WC3 permitindo a execução de um trecho de código javascript continuamente no nível do navegador.
+2- Resposta com status 200 mesmo estando offline: resposta da página ao protocolo HTTP ainda que offline. 
+3- Exibição de conteúdo com javascript desabilitado: execução de códigos javascript ainda que essa linguagem esteja desabilitada ou não suportado.
+4- Usar HTTPS: é obrigatório, busca garantir segurança no momento de download de dados da aplicação.
+5- Conteúdos HTTP devem ser redirecionados para HTTPS: fazem com que um link direcionado inicialmente para a porta 80 seja direcionado 443. Reafirmando a alternativa anterior.
+6- Carregamento rápido no 3G: apliação deve haver bons funcionamentos em diversos aspectos o carregamento deve menor do que 3 segundos.
